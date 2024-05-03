@@ -1,2 +1,3 @@
-# -Financial-Sentiment-Analysis
-In this research, I conducted experiments on sentiment analysis using a financial dataset obtained from Kaggle. 
+# Financial-Sentiment-Analysis
+
+In this research, I conducted experiments on sentiment analysis using a financial dataset obtained from Kaggle. The research results, employing the Support Vector Machine algorithm, indicate that the model's accuracy for 3 sentiment classes (positive, neutral, and negative) reached 53%, while the accuracy for 2 sentiment classes (positive and negative) increased to 70%. Due to the high dimensionality resulting from feature extraction using TF-IDF, I decided to reduce these dimensions using the Principal Component Analysis (PCA) method. The aim of this research is to explore how a machine learning algorithm can comprehend sentiment within a sentence in the financial context.
